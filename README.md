@@ -47,6 +47,16 @@ app演示地址：https://ftoken.waps.eu.org/app/download/
 6: 无忧版。
 
 
+## Screenshots
+![1](imgs/01.jpg)
+![2](imgs/02.jpg)
+![3](imgs/03.jpg)
+![4](imgs/04.jpg)
+![5](imgs/05.jpg)
+![6](imgs/06.png)
+![7](imgs/07.png)
+![8](imgs/08.png)
+![9](imgs/09.png)
 
 
 
